@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'RIBs'
-  s.version          = '0.9.3'
+  s.version          = '0.14.3'
   s.summary          = 'Uber\'s cross-platform mobile architecture.'
   s.description      = <<-DESC
   s.platforms		 = { :ios => '9.0', :tvos => '13.0' }
