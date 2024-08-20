@@ -5,6 +5,7 @@ let package = Package(
     name: "RIBs",
     platforms: [
         .iOS(.v9),
+        .tvOS(.v13)
     ],
     products: [
         .library(name: "RIBs", targets: ["RIBs"]),
